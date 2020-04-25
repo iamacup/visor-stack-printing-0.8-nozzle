@@ -34,9 +34,25 @@ We need the bottom layer of a visor to 'stay together' and not stick to the viso
 | ![img](https://github.com/iamacup/visor-stack-printing-0.8-nozzle/raw/master/files/images/layer-speeds.png) | ![img](https://github.com/iamacup/visor-stack-printing-0.8-nozzle/raw/master/files/images/layer-heights.png) |
 
 
-## Testing
+## Project Files
 
-There are TEST project files that are a simple 3 stack for test runs
+There are TEST project files that are a 3 stack for each print type
+
+| Name | 'slow' Layer Speeds | Files |
+| ------- | ------ | ----- |
+| Type 1 | 15 | [files/PrusaSlicer/1](https://github.com/iamacup/visor-stack-printing-0.8-nozzle/tree/master/files/PrusaSlicer/1) |
+| Type 2 | 20 | [files/PrusaSlicer/2](https://github.com/iamacup/visor-stack-printing-0.8-nozzle/tree/master/files/PrusaSlicer/2) |
+| Type 3 | 25 | [files/PrusaSlicer/3](https://github.com/iamacup/visor-stack-printing-0.8-nozzle/tree/master/files/PrusaSlicer/3) |
+| Type 4 | 30 | [files/PrusaSlicer/4](https://github.com/iamacup/visor-stack-printing-0.8-nozzle/tree/master/files/PrusaSlicer/4) |
+
+
+## General Print Settings
+
+| Temp | Value | Notes |
+| ------- | ------ | ------ |
+| Temp | 130 | Temp is this high as there was lots of layer delamination, feel free to tweak based on your filament |
+| Material | PLA |  |
+| Air Gap | 0.35 | Tested between 0.1 and 0.5, 0.35 seemed to work best |
 
 
 ## Changing The Printer
@@ -51,22 +67,5 @@ The PrusaSlicer project files in this repo are setup for **MK3S MMU2S** to print
 3. Make sure the *Print Settings* and *Filament* are unchanged
 
 
-## General Print Settings
 
-| Temp | Value | Notes |
-| ------- | ------ | ------ |
-| Temp | 130 | Temp is this high as there was lots of layer delamination, feel free to tweak based on your filament |
-| Material | PLA |  |
-| Air Gap | 0.35 | Tested between 0.1 and 0.5, 0.35 seemed to work best |
-
-
-
-## Project Files
-
-| Property | 'slow' Layer Speeds | Files |
-| ------- | ------ | ----- |
-| Type 1 | 15 | https://github.com/iamacup/visor-stack-printing-0.8-nozzle/tree/master/files/PrusaSlicer/1 |
-| Type 2 | 20 | https://github.com/iamacup/visor-stack-printing-0.8-nozzle/tree/master/files/PrusaSlicer/1 |
-| Type 3 | 25 | https://github.com/iamacup/visor-stack-printing-0.8-nozzle/tree/master/files/PrusaSlicer/1 |
-| Type 4 | 30 | https://github.com/iamacup/visor-stack-printing-0.8-nozzle/tree/master/files/PrusaSlicer/1 |
 
