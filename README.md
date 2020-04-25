@@ -13,7 +13,7 @@ these are PrusaSlicer setups for 0.8 nozzles using the [Hack The Pandemic](www.h
 
 I did a lot of experimentation with the 0.8 nozzle on both PETG and PLA – it is very hard to get PETG to work because of how sticky it is compared to PLA so this repo is for PLA only.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/CgnUVlC" data-context="false" ><a href="//imgur.com/a/CgnUVlC"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+!(image)[https://i.imgur.com/YbhcxAj.mp4]
 
 ## How This Works
 
