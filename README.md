@@ -21,13 +21,11 @@ I did a lot of experimentation with the 0.8 nozzle on both PETG and PLA – it i
 We need the top layer of every visor to be as good as possible so it can serve as a nice flat base for the next visor so we:
 
 * Slow down `top layers` of a visor
-* Slow down the `bottom layer` of a visor
-* Slow down the `bottom layer + 1` of a visor
 
-We need the bottom layer of a visor to 'stay together' and not stick to the visor below it, especially considering there is an air gap - so we:
+We also need the bottom layer to be consistent, but split off from the previous visor so we: 
 
+* Slow down the `bottom layer` and `bottom layer + 1` of a visor
 * Make the `bottom layer + 1` of a visor smaller to act like a 'first layer' and make sure we minimise delamination of the `bottom layer`
-
 
 | Print Speeds | Layer Heights |
 | ------- | ------ |
