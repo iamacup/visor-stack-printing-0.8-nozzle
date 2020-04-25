@@ -1,6 +1,6 @@
 ## 0.8 Nozzle PLA Visor Stacks in PrusaSlicer
 
-**(Video of stack splitting)[https://imgur.com/YbhcxAj]**
+**[Video of stack splitting](https://imgur.com/YbhcxAj)**
 
 these are PrusaSlicer setups for 0.8 nozzles using the [Hack The Pandemic](www.hackthepandemic.co.uk) visor, which is based off of the N3DPS model 3.6 but with smoother tool paths for 100% perimeter prints, you can use other nozzle sizes for this but you will need to adjust the space between the models manually.
 
@@ -46,7 +46,7 @@ The PrusaSlicer project files in this repo are setup for **MK3S MMU2S** to print
 1. Change the **Printer**
 2. Update the Nozzle Diameter and Layer Height Limit Max in the *Printer Settings* as shown below:
 
-<img here> 
+![img](https://github.com/iamacup/visor-stack-printing-0.8-nozzle/raw/master/files/images/diff-printer.png)
 
 3. Make sure the *Print Settings* and *Filament* are unchanged
 
@@ -64,9 +64,9 @@ The PrusaSlicer project files in this repo are setup for **MK3S MMU2S** to print
 ## Project Files
 
 | Property | 'slow' Layer Speeds | Files |
-| ------- | ------ | <link> |
-| Type 1 | 15 | <link> |
-| Type 2 | 20 | <link> |
-| Type 3 | 25 | <link> |
-| Type 4 | 30 | <link> |
+| ------- | ------ | ----- |
+| Type 1 | 15 | https://github.com/iamacup/visor-stack-printing-0.8-nozzle/tree/master/files/PrusaSlicer/1 |
+| Type 2 | 20 | https://github.com/iamacup/visor-stack-printing-0.8-nozzle/tree/master/files/PrusaSlicer/1 |
+| Type 3 | 25 | https://github.com/iamacup/visor-stack-printing-0.8-nozzle/tree/master/files/PrusaSlicer/1 |
+| Type 4 | 30 | https://github.com/iamacup/visor-stack-printing-0.8-nozzle/tree/master/files/PrusaSlicer/1 |
 
