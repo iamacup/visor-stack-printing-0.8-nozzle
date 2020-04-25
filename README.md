@@ -65,5 +65,12 @@ The PrusaSlicer project files in this repo are setup for **MK3S MMU2S** to print
 3. Make sure the *Print Settings* and *Filament* are unchanged
 
 
+## Increasing the Max Volumetric Speed for more speed
+
+I had some success with it up at 18 / 19, but it needed higher filament temps (140+)
+
+[More info here](https://help.prusa3d.com/en/article/max-volumetric-speed_127176/)
+
+
 
 
