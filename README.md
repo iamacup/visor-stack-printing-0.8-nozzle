@@ -1,5 +1,7 @@
 ## 0.8 Nozzle PLA Visor Stacks in PrusaSlicer
 
+**(Video of stack splitting)[https://imgur.com/YbhcxAj]**
+
 these are PrusaSlicer setups for 0.8 nozzles using the [Hack The Pandemic](www.hackthepandemic.co.uk) visor, which is based off of the N3DPS model 3.6 but with smoother tool paths for 100% perimeter prints, you can use other nozzle sizes for this but you will need to adjust the space between the models manually.
 
 **Depending on your printer, these will print between 18.4 mins and 24.5 mins per visor**
@@ -13,7 +15,6 @@ these are PrusaSlicer setups for 0.8 nozzles using the [Hack The Pandemic](www.h
 
 I did a lot of experimentation with the 0.8 nozzle on both PETG and PLA – it is very hard to get PETG to work because of how sticky it is compared to PLA so this repo is for PLA only.
 
-!(image)[https://i.imgur.com/YbhcxAj.mp4]
 
 ## How This Works
 
@@ -28,11 +29,9 @@ We need the bottom layer of a visor to 'stay together' and not stick to the viso
 * Make the `bottom layer + 1` of a visor smaller to act like a 'first layer' and make sure we minimise delamination of the `bottom layer`
 
 
-<PICTURE ABOUT SETUP OF FIRST LAYER>
-
 | Print Speeds | Layer Heights |
 | ------- | ------ |
-| ![img]() | ![img]() |
+| ![img](https://github.com/iamacup/visor-stack-printing-0.8-nozzle/raw/master/files/images/layer-speeds.png) | ![img](https://github.com/iamacup/visor-stack-printing-0.8-nozzle/raw/master/files/images/layer-heights.png) |
 
 
 ## Testing
