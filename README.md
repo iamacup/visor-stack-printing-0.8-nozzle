@@ -38,10 +38,10 @@ There are TEST project files that are a 3 stack for each print type
 
 | Name | 'slow' Layer Speeds | Files |
 | ------- | ------ | ----- |
-| Type 1 | 15 | [files/PrusaSlicer/1](https://github.com/iamacup/visor-stack-printing-0.8-nozzle/tree/master/files/PrusaSlicer/1) |
-| Type 2 | 20 | [files/PrusaSlicer/2](https://github.com/iamacup/visor-stack-printing-0.8-nozzle/tree/master/files/PrusaSlicer/2) |
-| Type 3 | 25 | [files/PrusaSlicer/3](https://github.com/iamacup/visor-stack-printing-0.8-nozzle/tree/master/files/PrusaSlicer/3) |
-| Type 4 | 30 | [files/PrusaSlicer/4](https://github.com/iamacup/visor-stack-printing-0.8-nozzle/tree/master/files/PrusaSlicer/4) |
+| Type 1 - safest | 15 | [files/PrusaSlicer/1](https://github.com/iamacup/visor-stack-printing-0.8-nozzle/tree/master/files/PrusaSlicer/1) |
+| Type 2 - safeish | 20 | [files/PrusaSlicer/2](https://github.com/iamacup/visor-stack-printing-0.8-nozzle/tree/master/files/PrusaSlicer/2) |
+| Type 3 - a little scary | 25 | [files/PrusaSlicer/3](https://github.com/iamacup/visor-stack-printing-0.8-nozzle/tree/master/files/PrusaSlicer/3) |
+| Type 4 - scariest | 30 | [files/PrusaSlicer/4](https://github.com/iamacup/visor-stack-printing-0.8-nozzle/tree/master/files/PrusaSlicer/4) |
 
 
 ## General Print Settings
